@@ -8,7 +8,5 @@ def subtract(a,b):
  def multyplay(a,b):
  return a*b
 
- def divide(a,b):
- 	return a/b
- def divide_(a,b):
- 	return a/b
+def divide_new(a,b):
+	return a/b
